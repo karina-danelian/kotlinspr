@@ -1,5 +1,6 @@
 package LESSON1
 
 fun main() {
-    println('v')
+    println("v")
+    println("ver1")
 }
